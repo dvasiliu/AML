@@ -2,4 +2,4 @@
 
 testing
 
-[a relative link](/folder/Ex2.html)
+[a relative link](Ex2.html)
