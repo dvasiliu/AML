@@ -1,5 +1,5 @@
 # test
 
-testing blabla
+This is a test.
 
 [a relative link](Ex2.html)
